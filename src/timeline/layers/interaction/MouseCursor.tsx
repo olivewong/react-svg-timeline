@@ -124,15 +124,15 @@ const ZoomCursor = ({
         height="100%"
         cursor={cursor}
       />
-      <line style={cursorStyle} x1={mousePosition} y1="0%" x2={mousePosition} y2="5%" cursor={cursor} />
+      <line style={cursorStyle} x1={mousePosition} y1="0%" x2={mousePosition} y2="3%" cursor={cursor} />
       <CursorLabel
         x={mousePosition}
-        y={isZoomInPossible ? '11%' : '15%'}
+        y={isZoomInPossible ? '7%' : '12%'}
         cursor={cursor}
         overline={cursorLabel}
         label={isZoomInPossible ? zoomScale : ''}
       />
-      <line style={cursorStyle} x1={mousePosition} y1="23%" x2={mousePosition} y2="100%" cursor={cursor} />
+      <line style={cursorStyle} x1={mousePosition} y1="16%" x2={mousePosition} y2="100%" cursor={cursor} />
     </g>
   )
 }
