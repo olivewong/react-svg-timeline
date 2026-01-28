@@ -1,5 +1,5 @@
 # react-svg-timeline [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react-svg-timeline.svg?style=flat)](https://www.npmjs.com/package/react-svg-timeline)
-this is a fork of https://github.com/netzwerg/react-svg-timeline/  with some minor coloring tweaks
+this is a fork of https://github.com/netzwerg/react-svg-timeline/  with some minor coloring tweaks, credit to netzwerg
 
 
 A React event timeline component based on SVG. 
