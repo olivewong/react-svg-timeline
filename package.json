@@ -1,6 +1,6 @@
 {
   "name": "@waabi/react-svg-timeline",
-  "version": "1.25.8",
+  "version": "2.0.0",
   "description": "React Timeline Component",
   "keywords": [
     "react",
@@ -13,7 +13,6 @@
     "plot",
     "svg"
   ],
-  "repository": "olivewong/react-svg-timeline",
   "license": "MIT",
   "author": "Rahel Lüthy <rahel.luethy@gmail.com>",
   "type": "module",
